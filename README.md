@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 ## Overview of the analysis:
-Explain the purpose of this analysis
+The purpose of this analysis is to apply machine learning to Q1 2019 LoanStats in order to predict credit risk. Three methods were used in this analysis, which Resampling, SMOTEENN and Emsemble classifiers.
 
 ## Results
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models
