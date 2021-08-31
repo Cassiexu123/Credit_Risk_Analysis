@@ -10,12 +10,16 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 - Precision Score -Low Risk: 1.00
 - Recall Score Difference: 0.16%
 
+![](images/1.PNG)
+
 ### 2.SMOTE
 
 - Balanced Accuracy Score: 65.84%
 - Precision Score -High Risk: 0.01
 - Precision Score -Low Risk: 1.00
 - Recall Score Difference: 0.05%
+
+![](images/2.PNG)
 
 ### 3.ClusterCentroids
 
@@ -24,12 +28,16 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 - Precision Score -Low Risk: 1.00
 - Recall Score Difference: 0.29%
 
+![](images/3.PNG)
+
 ### 4.SMOTEENN
 
 - Balanced Accuracy Score: 66.22%
 - Precision Score -High Risk: 0.01
 - Precision Score -Low Risk: 1.00
 - Recall Score Difference: 0.24%
+
+![](images/4.PNG)
 
 ### 5.BalancedRandomForestClassifer
 
@@ -38,12 +46,17 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 - Precision Score -Low Risk: 1.00
 - Recall Score Difference: 0.17%
 
+![](images/5.PNG)
+
 ### 6.EasyEnsembleClassifier
 
 - Balanced Accuracy Score: 93.17%
 - Precision Score -High Risk: 0.09
 - Precision Score -Low Risk: 1.00
 - Recall Score Difference: 0.02%
+
+
+![](images/6.PNG)
 
 ## Summary
 Based on the six different machine learning models above, we can treat EasyEnsembleClassifier as the recommended model. Because the balanced accuracy score is 93.17% which is the highest one and small variance of the recall score-0.02%.
